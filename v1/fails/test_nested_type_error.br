@@ -1,0 +1,7 @@
+[func main [] [+ 1 [+ "a" 2]]]
+
+/*
+*OUT*
+ErrorType.TYPE_ERROR
+*OUT*
+*/

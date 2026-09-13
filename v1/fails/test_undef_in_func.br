@@ -1,0 +1,7 @@
+[func main [] [seq [] x]]
+
+/*
+*OUT*
+ErrorType.NAME_ERROR
+*OUT*
+*/

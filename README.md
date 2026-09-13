@@ -16,7 +16,7 @@ CS 131 interpreter projects.
 - A few days after each project deadline, we will upload a reference solution
   to this repository. We recommend building the next part on your own code, but
   you may instead build on the prior project's reference solution.
-- Use Python 3.12 or newer. Older versions may produce unexpected issues.
+- Use Python 3.11 or newer. Older versions may produce unexpected issues.
 
 ### Framework files
 
@@ -36,8 +36,7 @@ the projects, and you should not modify them.
 
 ## Local autograder
 
-This initial skeleton does not include public test cases. When public tests are
-added under `vX/tests` and `vX/fails`, run them with:
+When public tests are added under `vX/tests` and `vX/fails`, run them with:
 
 ```shell
 python tester.py <project number>

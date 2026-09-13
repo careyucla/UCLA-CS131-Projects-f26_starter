@@ -1,0 +1,7 @@
+[func main [] [print [+ 2 3]]]
+
+/*
+*OUT*
+5
+*OUT*
+*/

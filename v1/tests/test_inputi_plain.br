@@ -1,0 +1,10 @@
+[func main [] [print [inputi]]]
+
+/*
+*IN*
+42
+*IN*
+*OUT*
+42
+*OUT*
+*/

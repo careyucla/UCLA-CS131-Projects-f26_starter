@@ -1,0 +1,7 @@
+[func main [] [seq [[x 5]] [print x]]]
+
+/*
+*OUT*
+5
+*OUT*
+*/

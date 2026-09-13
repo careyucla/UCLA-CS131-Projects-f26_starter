@@ -1,0 +1,7 @@
+[func main [] [seq [[s "hello"]] [print s]]]
+
+/*
+*OUT*
+hello
+*OUT*
+*/

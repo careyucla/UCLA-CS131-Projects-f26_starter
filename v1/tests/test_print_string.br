@@ -1,0 +1,7 @@
+[func main [] [print "hello world"]]
+
+/*
+*OUT*
+hello world
+*OUT*
+*/
