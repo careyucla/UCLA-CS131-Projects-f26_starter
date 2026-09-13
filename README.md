@@ -8,6 +8,7 @@ CS 131 interpreter projects.
 - Your project must have a top-level, versioned `interpretervX.py` file, where
   `X` is the current project number. That file must export the `Interpreter`
   class or it will not run on the autograder.
+- You may find the spec for the given project under the `pXspec` directory.
 - Your Gradescope submission should contain `interpretervX.py` and any
   additional files you wrote that it relies on. Do not submit the base files.
 - Maintain a copy of your local Git history and commit regularly as you work.
